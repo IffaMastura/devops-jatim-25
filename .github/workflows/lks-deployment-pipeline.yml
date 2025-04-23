@@ -1,7 +1,7 @@
 name: Deploy Workflow Leantime & Gatus
 
 on:
-  workflows:  
+  branch:  
     - main
 
 env:
